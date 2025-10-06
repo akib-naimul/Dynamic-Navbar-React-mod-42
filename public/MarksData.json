@@ -1,0 +1,13 @@
+
+[
+  { "studentId": 1, "name": "Ariana", "marks": { "physics": 85, "chemistry": 78, "math": 92 } },
+  { "studentId": 2, "name": "Rafi", "marks": { "physics": 74, "chemistry": 81, "math": 69 } },
+  { "studentId": 3, "name": "Nisha", "marks": { "physics": 90, "chemistry": 88, "math": 95 } },
+  { "studentId": 4, "name": "Tanvir", "marks": { "physics": 67, "chemistry": 72, "math": 70 } },
+  { "studentId": 5, "name": "Priya", "marks": { "physics": 88, "chemistry": 91, "math": 85 } },
+  { "studentId": 6, "name": "Samiul", "marks": { "physics": 76, "chemistry": 68, "math": 74 } },
+  { "studentId": 7, "name": "Moumita", "marks": { "physics": 95, "chemistry": 89, "math": 93 } },
+  { "studentId": 8, "name": "Hasan", "marks": { "physics": 82, "chemistry": 80, "math": 78 } },
+  { "studentId": 9, "name": "Tania", "marks": { "physics": 70, "chemistry": 75, "math": 72 } },
+  { "studentId": 10, "name": "Rakib", "marks": { "physics": 92, "chemistry": 94, "math": 90 } }
+]

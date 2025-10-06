@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "planName": "Basic Plan",
+    "price": "$29/month",
+    "features": [
+      "Access to gym equipment",
+      "Locker facility",
+      "1 personal training session per month",
+      "Free water bottle"
+    ]
+  },
+  {
+    "id": 2,
+    "planName": "Standard Plan",
+    "price": "$49/month",
+    "features": [
+      "Access to all equipment",
+      "Group fitness classes",
+      "Weekly personal training session",
+      "Sauna access",
+      "Free protein shake"
+    ]
+  },
+  {
+    "id": 3,
+    "planName": "Premium Plan",
+    "price": "$79/month",
+    "features": [
+      "Unlimited gym + class access",
+      "Dedicated personal trainer",
+      "Diet and nutrition plan",
+      "Free merchandise kit",
+      "Priority support and booking"
+    ]
+  }
+]
